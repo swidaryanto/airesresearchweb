@@ -1,0 +1,21 @@
+index.html
+  s_dc7107b41d96fb::t_58d5f2c3d427d5 6-10,14-18
+style.css
+  s_dc7107b41d96fb::t_0a0f4541f80a7e 2-3,8,13,16,18,20-24,27-29,32-35,38-39,41-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ae45ca894ea468042dab6edb8f68e7baff4c51c3",
+  "prompts": {},
+  "sessions": {
+    "s_dc7107b41d96fb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "32c2f6c6-7992-43b9-874e-c7990bbc3bfe",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Septian. <53956727+swidaryanto@users.noreply.github.com>"
+    }
+  }
+}
