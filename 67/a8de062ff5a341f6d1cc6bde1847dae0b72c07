@@ -1,0 +1,21 @@
+style.css
+  s_dc7107b41d96fb::t_7aaa8d74fd334b 1-147
+index.html
+  s_dc7107b41d96fb::t_0d1c9bd2b08d71 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "67a8de062ff5a341f6d1cc6bde1847dae0b72c07",
+  "prompts": {},
+  "sessions": {
+    "s_dc7107b41d96fb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "32c2f6c6-7992-43b9-874e-c7990bbc3bfe",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Septian. <53956727+swidaryanto@users.noreply.github.com>"
+    }
+  }
+}
